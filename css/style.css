@@ -1,0 +1,82 @@
+body 
+.center {
+  text-align: center;
+}
+form {
+  max-width: 300px;
+  margin: 0 auto;
+  padding-top: 138px;
+  padding-left: 100px;
+}
+
+input {
+  border-radius: 5px;
+  padding: 12px 14px;
+  display: block;
+  border: 1px solid rgba(234, 234, 234, 1);
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+button {
+  width: 300px;
+  height: 45px;
+  border-radius: 5px;
+  background: rgba(70, 163, 88, 1);
+  margin-top: 41px;
+  margin-bottom: 387px;
+}
+
+buttoncontainer-name: registration {
+  font-family: Cera Pro;
+  font-size: 16px;
+  font-weight: 700px;
+  line-height: 16px;
+  text-align: center;
+  background: rgba(255, 255, 255, 1);
+}
+
+em {
+  width: 157px;
+  height: 16px;
+  padding-left: 172px;
+  padding-top: 52px;
+  margin-bottom: 40px;
+}
+p {
+  width: 300px;
+  height: 16px;
+  padding: 0px 45px 0px 0px;
+  margin-bottom: 14px;
+  padding-left: 100px;
+  padding-top: 108px;
+}
+#text1 {
+  width: 300px;
+height: 8px;
+top: 468px;
+left: 100px;
+display: block;
+margin-top: 36px;
+margin-bottom: 27px;
+
+}
+inputcontainer-name:Or register with {
+font-family: Cera Pro;
+font-size: 13px;
+font-weight: 40;
+line-height: 16px;
+text-align: left;
+}
+  
+  
+
+.Registor
+ {
+  color: darkgreen;
+}
+img {
+  width: 300px;
+  height: 300px;
+
+}
