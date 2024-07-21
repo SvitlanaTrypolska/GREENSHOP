@@ -24,7 +24,7 @@ button {
   border-radius: 5px;
   background: rgba(70, 163, 88, 1);
   margin-top: 41px;
-  margin-bottom: 387px;
+  margin-bottom: 37px;
 }
 
 
@@ -45,28 +45,32 @@ p {
   padding-top: 108px;
 }
 
- 
 
-Registor
- {
-  color: darkgreen;
-}
+
 img {
   width: 300px;
   height: 300px;
 }
     
    
-    input-box 
-    {/* 1 *
+.input:disabled {
+
   width:300px;
-  height: 16px;
-  top: 468px;
+  height: 8px;
+  margin-top: 8px;
   left: 100px;
   font-family: Cera Pro;
 font-size: 13px;
 font-weight: 40;
 line-height: 16px;
 text-align: left;
-*/
+margin-top: 37px;
+}
+#wrapper {
+
+  width: 300px;
+height: 40px;
+top: 566px;
+left: 100px;
+margin-bottom: 50px;
 }
